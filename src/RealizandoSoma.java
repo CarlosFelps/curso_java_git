@@ -7,5 +7,6 @@ public class RealizandoSoma {
 
         System.out.println(idade);
         System.out.println(anoNascimento);
+        System.out.println(anoAtual);
     }
 }
