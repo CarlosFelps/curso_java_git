@@ -6,5 +6,6 @@ public class RealizandoSoma {
         int idade = anoAtual - anoNascimento;
 
         System.out.println(idade);
+        System.out.println(anoNascimento);
     }
 }
